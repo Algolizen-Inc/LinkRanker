@@ -1,8 +1,5 @@
 # LinkRanker
 LinkRanker is an advanced search algorithm designed to elevate search relevance by leveraging the power of link analysis. At its core, LinkRanker combines sophisticated ranking techniques with comprehensive link analysis to deliver highly relevant search results to users.
-Certainly! Below is a sample documentation post for your search engine algorithm, focusing on explaining the algorithm and clarifying the ranking formulas used:
-
----
 
 # Search Engine Algorithm Documentation
 
